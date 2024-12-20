@@ -7,7 +7,7 @@ GitHub：https://github.com/imsyy/home
 
 //弹窗样式
 iziToast.settings({
-    timeout: 10000,
+    timeout: 100000,
     progressBar: false,
     close: false,
     closeOnEscape: true,
